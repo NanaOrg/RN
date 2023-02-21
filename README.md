@@ -1,7 +1,5 @@
-# MOBILE DEPENDENCY
-
 Meterian Scan Result: <br>
 
-[![security status](https://www.meterian.com/badge/gh/roggiedc/RN/security)](https://www.meterian.com/report/gh/roggiedc/RN)
-[![stability status](https://www.meterian.com/badge/gh/roggiedc/RN/stability)](https://www.meterian.com/report/gh/roggiedc/RN)
-[![licensing status](https://www.meterian.com/badge/gh/roggiedc/RN/licensing)](https://www.meterian.com/report/gh/roggiedc/RN)
+[![security status](https://qa.meterian.com/badge/gh/NanaOrg/RN/security?branch=main)](https://qa.meterian.com/report/gh/NanaOrg/RN)
+[![stability status](https://qa.meterian.com/badge/gh/NanaOrg/RN/stability?branch=main)](https://qa.meterian.com/report/gh/NanaOrg/RN)
+[![licensing status](https://qa.meterian.com/badge/gh/NanaOrg/RN/licensing?branch=main)](https://qa.meterian.com/report/gh/NanaOrg/RN)
